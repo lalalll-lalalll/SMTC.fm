@@ -1,7 +1,7 @@
 # SMTC.fm
 使用SMTC协议上传记录到Last.fm
 
-项目博客:
+项目博客: https://lalalll-lalalll.github.io/code/SMTC.fm/
 
 本程序引用的外部库有: `pyperclip` `winrt` `sqlite3` `requests` `json`
 
